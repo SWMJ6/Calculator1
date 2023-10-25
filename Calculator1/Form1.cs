@@ -120,7 +120,7 @@ namespace Calculator1
             int y; 
             int.TryParse(förstaTal, out y);
             int x = int.Parse(andraTal);
-
+            int test = 0;
             int resultat =0 ;
 
             switch (räknesätt)
